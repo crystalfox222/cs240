@@ -1,0 +1,2 @@
+void secret_function();
+
